@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fruition1</string>
+    <string name="search_hint">Cari...</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_detect">Deteksi</string>
+    <string name="menu_account">Akun</string>
+</resources>
